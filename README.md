@@ -10,7 +10,5 @@ Jadi gue belajar cara nge-push project dengan git dengan workflow berikut:
 Github is simple, dark, but powerful!
 
 ## Day 1: Playing with NumPy
-Cuma belajar basic dengan praktek langsung dari https://docs.scipy.org/doc/numpy/user/quickstart.html - sini.
+Cuma belajar basic dengan praktek langsung dari [link](https://docs.scipy.org/doc/numpy/user/quickstart.html) berikut.
 Yang mau lihat Jupyter Notebooknya bisa liat di repository ini.
-
-[Web Numpy] https://docs.scipy.org/doc/numpy/user/quickstart.html
