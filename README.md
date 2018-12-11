@@ -18,3 +18,8 @@ Salah satu hal fundamental sebelum melakukan proses modelling. Yup, Exploratory 
 Untuk dataset digunakan dari [sumber berikut](https://archive.ics.uci.edu/ml/datasets/iris).
 
 Kalau mau lihat Jupyter Notebooknya di repository yak!
+
+## Day 3: Manipulating Dataset with Pandas
+Sekarang mulai coba2 untuk melakukan selection dan filtering pada dataset yang besar. Dataset berasal dari [Datacamp](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+
+Kalau mau lihat codingannya di repo udah ada kok!
